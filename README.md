@@ -1,1 +1,3 @@
-# week1-git-lab-
+## Group Members
+Nosiku Mukuka
+Orterd Zulu
